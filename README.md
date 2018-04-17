@@ -17,8 +17,8 @@ Ini pengaplikasian tampilan interaktif yang lebih kompleks. Karena sudah menggun
 
 ### Halaman Hasil Pertandingan
 
-Ini pengaplikasian untuk tampilan layout sederhana menggunakan nested layout untuk membuat tampilan sedemikian rupa.
+Ini pengaplikasian untuk tampilan layout sederhana menggunakan nested layout untuk membuat tampilan sedemikian rupa. Juga menggunakan EXTRA untuk menyimpan variable dari activity sebelumnya.
 
-Feel free to download.
+Thank to Indonesia Android Kejar 2017 Batch 3
 
-You can also email me at imran@cloudymous.id
+You can also email me at sayacloud@gmail.com
